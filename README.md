@@ -1,5 +1,5 @@
 # The Porter hypothesis: Environmental regulations, innovation, and productivity
-I study at the Georg-August University of Goettingen for the development economics master's program. Here is the R script that I used for one of my research papers that examined the impact of environmental regulations on innovations. 
+I study at the Georg-August University of Goettingen for the development economics master's program. Here is the R script that I used for one of my research papers that examined the impact of environmental regulations on innovations and productivity. 
 
 ## Abstract
 To fight against climate change and mitigate its devastating consequences, governments worldwide have been using various policy tools. This term paper tests the weak and narrow versions of the Porter Hypothesis using a panel
